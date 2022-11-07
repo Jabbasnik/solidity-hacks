@@ -1,0 +1,31 @@
+node_modules
+.env
+.vscode
+coverage
+coverage.json
+typechain
+typechain-types
+bin
+
+*.iml
+*.iws
+/.idea
+
+#Hardhat files
+cache
+artifacts
+soljson*.js
+
+
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
